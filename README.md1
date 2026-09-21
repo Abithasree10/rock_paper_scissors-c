@@ -1,0 +1,9 @@
+ABOUT THE PROJECT : 
+This is a beginner-friendly console game where two players choose Rock,Paper,or Scissors.
+The program checks their choices and determines the winner.
+LANGUAGE USED : C
+CONCEPTS : 
+  Variables
+  printf() and scanf()
+  if-else
+  Operators
